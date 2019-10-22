@@ -10,7 +10,7 @@
 To successfully run the game:
  - run  index.html in a web browser that supports JavaScript and HTML.
  - Dependencies included:
-   - images are in the `images` folder
+   - images are in the images folder
    - styles.css is included in the css folder
    - app.js, resources.js, and engine.js  included in the js folder
 
