@@ -8,11 +8,11 @@
 ## Instructions
 
 To successfully run the game:
- - Open `index.html` in a web browser that supports __JavaScript__ and __HTML <canvas>__.
+ - run  index.html in a web browser that supports JavaScript and HTML.
  - Dependencies included:
    - images are in the `images` folder
-   - `styles.css` is included in the `css` folder
-   - `app.js`, `resources.js`, and `engine.js` are included in the `js` folder
+   - styles.css is included in the css folder
+   - app.js, resources.js, and engine.js  included in the js folder
 
 
 ##  How to play
