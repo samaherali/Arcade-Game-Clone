@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
-- [How to play](#Howtoplay)
+- Instructions
+- How to play
 
 ## Instructions
 
